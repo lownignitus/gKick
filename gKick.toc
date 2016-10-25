@@ -1,4 +1,4 @@
-## Interface: 70000
+## Interface: 70100
 ## Title: gKick
 ## Author: |cffDA70D6LownIgnitus|r Mihkael@US-Alexstrasza
 ## Version: |cffFF4500v1.0.1|r

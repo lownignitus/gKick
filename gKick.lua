@@ -1,8 +1,7 @@
 local CF = CreateFrame
 local addon_name = "gKick"
 
-SLASH_GKICK1 = "/gKick" or "/gkick"
-SLASH_GKICK_GK1 = "/gk"
+SLASH_GKICK1 = "/gKick" or "/gkick" or "/gk"
 
 local gkEvents_table = {}
 
@@ -25,9 +24,5 @@ function gkEvents_table.eventFrame:ADDON_LOADED(AddOn)
 end
 
 function SlashCmdList.GKICK(msg)
-	GuildUninvite(msg)
-end
-
-function SlashCmdList.GKICK_GK(msg)
 	GuildUninvite(msg)
 end
