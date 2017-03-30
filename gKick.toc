@@ -1,7 +1,7 @@
-## Interface: 70100
+## Interface: 70200
 ## Title: gKick
 ## Author: |cffDA70D6LownIgnitus|r Mihkael@US-Alexstrasza
-## Version: |cffFF4500v1.0.1|r
+## Version: |cffFF4500v1.0.2|r
 ## Notes: Simple addon to boot guild members
 
 gKick.lua
