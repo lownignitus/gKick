@@ -1,4 +1,4 @@
---v1.0.2
+--v1.0.3
 local CF = CreateFrame
 local addon_name = "gKick"
 
